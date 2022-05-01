@@ -1,1 +1,1 @@
-# odin-recipes
+# This is my first big project that showcases everything I have learned in The Odin Project Foundation course
